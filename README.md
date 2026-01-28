@@ -297,11 +297,12 @@ This explains why performance degrades beyond 2 agents in our experiments.
 ## Citation
 
 ```bibtex
-@article{multiagentsearch2024,
+@article{dube2026multiagentsearch,
   title={Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination},
-  author={Your Name},
-  year={2024},
-  journal={arXiv preprint}
+  author={Dube, Xolani},
+  year={2026},
+  journal={GitHub Repository},
+  url={https://github.com/xolanidube/multi-agent-search}
 }
 ```
 
@@ -327,9 +328,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
+- **Author**: Xolani Dube
+- **Email**: i@xolani.co.za
+- **LinkedIn**: [Xolani Dube](https://www.linkedin.com/in/xolani-dube-b22333141/)
+- **GitHub**: [@xolanidube](https://github.com/xolanidube)
 
 ---
 
