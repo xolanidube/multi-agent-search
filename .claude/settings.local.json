@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python tests/test_basic.py:*)",
+      "Bash(python examples/run_simulation.py:*)",
+      "Bash(python -m venv:*)",
+      "Bash(venv/Scripts/pip install:*)",
+      "Bash(venv/Scripts/python:*)",
+      "Bash(echo:*)",
+      "Bash(python:*)",
+      "Bash(.venv/Scripts/python:*)",
+      "Bash(.venv\\\\Scripts\\\\python.exe examples/create_animations.py)",
+      "Bash(pip install:*)",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\anim_single_searcher.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\anim_territorial.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\anim_probabilistic.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\anim_random_walk.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\anim_large_scale.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\grid_simple.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\grid_spiral.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\grid_maze.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\grid_multi_agent.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\grid_swarm.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\grid_warehouse.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\grid_probabilistic.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\grid_large_scale.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\grid_large_scale_success.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\usecase_sar.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\usecase_threat_hunting.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\usecase_drone_swarm.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\usecase_medical.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\usecase_warehouse.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\usecase_warehouse_fixed.gif\")",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\multi_agent_search\\\\animations\\\\usecase_debugging_fixed.gif\")",
+      "Bash(pdflatex:*)",
+      "Bash(start \"\" \"C:\\\\Users\\\\Xolani\\\\Downloads\\\\Time-Constrained Multi-Agent Search with Online Strategy Selection via Stigmergic Coordination\\\\README.md\")",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

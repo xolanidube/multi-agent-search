@@ -1,0 +1,37 @@
+{
+  "0.0": {
+    "success_rate": 0.82,
+    "avg_coverage": 0.5136,
+    "avg_time_efficiency": 0.45650433065199814
+  },
+  "0.05": {
+    "success_rate": 0.76,
+    "avg_coverage": 0.5631999999999999,
+    "avg_time_efficiency": 0.48084470464392304
+  },
+  "0.1": {
+    "success_rate": 0.78,
+    "avg_coverage": 0.5811999999999999,
+    "avg_time_efficiency": 0.4600051439372285
+  },
+  "0.15": {
+    "success_rate": 0.74,
+    "avg_coverage": 0.5631999999999999,
+    "avg_time_efficiency": 0.50033675083559
+  },
+  "0.2": {
+    "success_rate": 0.88,
+    "avg_coverage": 0.5083999999999999,
+    "avg_time_efficiency": 0.48985221674365476
+  },
+  "0.25": {
+    "success_rate": 0.86,
+    "avg_coverage": 0.5264,
+    "avg_time_efficiency": 0.47652062904365994
+  },
+  "0.3": {
+    "success_rate": 0.86,
+    "avg_coverage": 0.5235999999999998,
+    "avg_time_efficiency": 0.48136229921011486
+  }
+}
